@@ -1,0 +1,23 @@
+Qualifications and Skills
+
+Education:
+- Class 10 - 98%
+- Pursuing Diploma in AI/ML
+
+Academic Skills:
+- Strong command over R and Python
+- Strong background in Data Science
+- Published technical paper on document-based report generation using officer package of R
+
+Extracurricular Skills:
+- Trinity Grade 8 Pianist
+- HSK 2 Chinese
+
+Personal Information
+
+Hobbies:
+- Learning music
+- Learning Chinese
+
+Interests:
+- Artificial Intelligence & Machine Learning
