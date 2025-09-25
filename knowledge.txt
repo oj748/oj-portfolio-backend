@@ -7,6 +7,8 @@ Education:
 Academic Skills:
 - Strong command over R and Python
 - Strong background in Data Science
+
+Projects:
 - Published technical paper on document-based report generation using officer package of R
 
 Extracurricular Skills:
@@ -21,3 +23,17 @@ Hobbies:
 
 Interests:
 - Artificial Intelligence & Machine Learning
+
+
+What I'm Looking For
+-AI/ML Projects
+    Excited to work on machine learning projects, data analysis, and AI applications
+
+- Web Development
+    Frontend and backend development using modern technologies and frameworks
+
+- Music Collaboration
+    Piano performances, compositions, and musical projects
+
+- Data Science
+    Statistical analysis, visualization, and research projects
